@@ -5,6 +5,7 @@ Dataset Description: -
 Dataset is divided into two parts training and testing data.
 (1). train_V2.csv - the training set
 (2). test_V2.csv - the test set
+Download Link:- https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 
 Data fields Description: -
 
